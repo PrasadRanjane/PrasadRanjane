@@ -1,4 +1,16 @@
 <h2> Hi, I'm Prasad! <img src="https://media.giphy.com/media/LCdQfRfK3KfV2ykuwb/giphy.gif" width="50"></h2>
+
+I’m a Front-End & Mobile Developer from Pune.  
+Currently studying for MCA at Pune University, I build web and mobile apps using React, React Native, Next.js, Node.js, and more.
+
+## 📲 Online Presence  
+- 🌐 Portfolio website: https://anytechie.netlify.app/  
+- 🔗 LinkedIn: https://www.linkedin.com/in/prasadranjane32/  
+- 📝 Medium: https://anytechie.medium.com/  
+- 💻 Dev.to: https://dev.to/anytechie  
+- 📸 Instagram: https://www.instagram.com/any_techie/  
+
+---
 <img align='right' src="https://media.giphy.com/media/5i9nl3Y4JDRgcZW64M/giphy.gif" width="230">
 
 <p><em>Front-End Developer <a href="https://www.google.com/maps/d/u/0/viewer?mid=1L_Lje1sw3gbh7Qvt1uCGzZgw_VA&hl=en_US&ll=18.44603916049767%2C73.89941228922515&z=18" target="_blank">From Pune</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student Of MCA at <a href="http://www.unipune.ac.in/">Pune University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -86,7 +98,7 @@ const Prasad = {
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ---
 
-⭐️ From [@PrasadRanjane32](https://github.com/PrasadRanjane32)
+⭐️ From [@PrasadRanjane](https://github.com/PrasadRanjane)
 
 <a href="https://github.com/PrasadRanjane/DeveloperFolio">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadRanjane&repo=DeveloperFolio" />
