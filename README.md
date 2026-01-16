@@ -4,7 +4,8 @@ I’m a Front-End & Mobile Developer from Pune.
 Currently studying for MCA at Pune University, I build web and mobile apps using React, React Native, Next.js, Node.js, and more.
 
 ## 📲 Online Presence  
-- 🌐 Portfolio website: https://anytechie.netlify.app/  
+- 🌐 Portfolio website: https://prasadranjane.netlify.app/ 
+                        https://anytechie.netlify.app/  
 - 🔗 LinkedIn: https://www.linkedin.com/in/prasadranjane32/  
 - 📝 Medium: https://anytechie.medium.com/  
 - 💻 Dev.to: https://dev.to/anytechie  
